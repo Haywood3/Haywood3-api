@@ -1,4 +1,4 @@
-import secrets
+import secrets # difference in password1.py not using random
 import string
 
 def generate_password(length = 8):
