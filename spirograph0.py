@@ -14,6 +14,7 @@ my_turtle.forward(200)
 my_turtle.right(150)
 my_turtle.forward(200)
 my_turtle.left(150)
+
 my_turtle.forward(75)
 my_turtle.left(250)
 my_turtle.forward(50)

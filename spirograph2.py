@@ -14,6 +14,7 @@ my_turtle.forward(175)
 my_turtle.right(90)
 my_turtle.forward(150)
 my_turtle.left(190)
+
 my_turtle.forward(25) # distance
 my_turtle.left(300) # angle
 my_turtle.forward(125)
